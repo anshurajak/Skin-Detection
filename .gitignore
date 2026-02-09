@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Django
+media/
+staticfiles/
+db.sqlite3
+
+# ML models
+models/*.keras
+
+# Environment
+.env
+.env.*
+
+# Logs / notebooks
+*.log
+.ipynb_checkpoints/
